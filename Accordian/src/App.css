@@ -1,0 +1,24 @@
+
+
+.collapsible_contentOuter{
+  background-color: rgb(182, 154, 125);
+  color: black;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: px;
+  margin-bottom: 10px;
+}
+
+.Accordion{
+  background-color: rgb(135, 98, 61);
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 6px;
+  margin-top: 10%;
+
+}
+.note{
+  color: rgb(210, 228, 245);
+}
+.collapsible_contentInner{
+  cursor: pointer;
+}
