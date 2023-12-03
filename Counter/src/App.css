@@ -1,0 +1,22 @@
+*{
+ background:linear-gradient(to top right, #9c757c, #258c9c, #211f1c);
+ background-position: center;
+ background-attachment: fixed;
+ 
+}
+.container{
+font-size: 95px;
+text-align: center;
+margin-top: 20%;
+}
+button{
+  height: 60px;
+  width: 60px;
+  font-size: 50px;
+  border-radius: 10px;
+  padding: auto;
+  background:#fff;
+}
+span{
+  padding: 20px 20px 20px 20px;
+}
